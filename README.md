@@ -18,7 +18,7 @@ To get started with this project, follow the instructions below:
 Clone this repository using Git:
     
 ```bash
-git clone https://github.com/Srinivas1109/File-Fusion.git
+git clone https://github.com/Hemanth1109/File-Fusion.git
 ```
 
 i. Go to the client directory:
@@ -91,46 +91,15 @@ nodemon index.js
 
 ## Author
 
-* **Srinivas** - [Srinivas1109]([github.com](github.com/Srinivas1109) )
+* **Hemanth**
 
 ## Contributors
 
-* **Srinivas** - [Srinivas1109]([github.com](github.com/Srinivas1109) )
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](
-[github.com](github.com/Srinivas1109/File-Fusion/tags) ).
-
-## Contact
-
-* **Srinivas** - [Srinivas1109]([github.com](github.com/Srinivas1109) )
+* **Hemanth**
 
 ## Support
 
-If you have any questions, please contact me at vasuy1614@gmail.com
-
-## Code of Conduct
-
-This project and everyone participating in it is governed by the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [
-[github.com](github.com/Srinivas1109/File-Fusion/issues) ].
-
-## Security
-
-If you discover any security related issues, please email
-
-[
-[github.com](github.com/Srinivas1109/File-Fusion/issues) ] instead of using the issue tracker.
-
-## Credits
-
-* [Srinivas](
-[github.com](github.com/Srinivas1109) )
-
-## About
-
-This project is maintained by [Srinivas](
-[github.com](github.com/Srinivas1109) ).
+If you have any questions, please contact me at hemanthkalyann@gmail.com
 
 ## Limitations
 
